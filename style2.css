@@ -46,8 +46,8 @@ body {
 .text-content {
     height: 600px;
     width: 700px;
-    
-text-align: center;
+
+    text-align: center;
 }
 
 .content-style,
@@ -67,13 +67,73 @@ h1 {
     display: flex;
     gap: 2rem;
     justify-content: center;
-    
+
 }
 
-.button {
+.button,
+.button1 {
 
     width: 300px;
     margin-top: 30px;
     border: 2px solid white;
     border-radius: 5px;
 }
+
+.footer-part {
+    background-color: black;
+
+
+
+}
+
+.main-foot {
+    display: flex;
+
+}
+
+.logo {
+    padding: 20px;
+    width: 15%;
+    margin-left: 10px;
+}
+
+.footer-text {
+    color: rgb(98 98 106);
+
+    
+}
+
+.main-head,
+.sub-head {
+    color: rgb(232 232 232);
+    padding-left: 30px;
+
+}
+
+.color,
+.color2 {
+    color: rgb(98 98 106);
+    padding: 30px;
+    font-size: 14px;
+}
+
+.text-gap {
+    margin-top: 10px;
+    
+}
+
+a {
+    padding-top: 10px;
+    text-decoration: none;
+    line-height: 1.5rem;
+}
+/* .btn{
+    display:block;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    
+    height: 48px;
+    
+    
+}  */
