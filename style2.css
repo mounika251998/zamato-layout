@@ -198,6 +198,11 @@ a {
     justify-content: center;
 } 
 
+.scanner-img{
+    height: 200px;
+    width: 200px;
+}
+
 
 .social-media-icons {
     display: flex;
